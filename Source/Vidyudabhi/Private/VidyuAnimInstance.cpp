@@ -1,9 +1,11 @@
 #include "VidyuAnimInstance.h"
 
 #include "GameFramework/Character.h"
+#include "GameFramework/CharacterMovementComponent.h"
 
 UVidyuAnimInstance::UVidyuAnimInstance() {
 	Speed = 0.0f;
+	bIsInAir = false;
 	
 }
 
@@ -14,6 +16,8 @@ void UVidyuAnimInstance::NativeUpdateAnimation(float DeltaSeconds) {
 
 	if(VidyuCharacter) {
 		Speed = VidyuCharacter->GetVelocity().Size();
+
+		bIsInAir = VidyuCharacter->GetCharacterMovement()->IsFalling();
 	}
 }
 

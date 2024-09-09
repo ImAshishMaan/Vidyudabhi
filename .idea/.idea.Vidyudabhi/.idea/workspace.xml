@@ -11,16 +11,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf90a5b0-5e18-410c-88b3-95abdf5dd115" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Map/DemoMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Map/DemoMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/Idle_Relaxed_A.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/Idle_Relaxed_A.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Map/DemoMap/3/VS/VWCFKCV81JP1X52EQ9PNTJ.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Map/DemoMap/3/VS/VWCFKCV81JP1X52EQ9PNTJ.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Map/DemoMap/4/6S/X2BLCJK9BF3VR9A5I1458J.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Map/DemoMap/4/6S/X2BLCJK9BF3VR9A5I1458J.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Map/DemoMap/7/24/GV33CZHTK97PREQEMWB779.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Map/DemoMap/7/24/GV33CZHTK97PREQEMWB779.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Map/DemoMap/7/AK/7CZ4LUO9OCDAGWIV5SVNNN.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Map/DemoMap/7/AK/7CZ4LUO9OCDAGWIV5SVNNN.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Map/DemoMap/7/M9/8W55SIQBU1I52LH1Y08DV9.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Map/DemoMap/7/M9/8W55SIQBU1I52LH1Y08DV9.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Vidyudabhi/Vidyudabhi.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Vidyudabhi/Vidyudabhi.Build.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vidyudabhi.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/Vidyudabhi.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Vidyudabhi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Vidyudabhi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ABP_VidyuAnimInstance.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ABP_VidyuAnimInstance.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/BP_VidyudabhiCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/BP_VidyudabhiCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/LevelStart_Montage.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/Melee_A.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/Melee_A.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/Melee_A_Montage.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/Melee_B_Montage.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ParagonKhaimera/Characters/Heroes/Khaimera/Animations/Melee_C_Montage.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ParagonKhaimera/Characters/Heroes/Khaimera/Meshes/Khaimera_Skeleton.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ParagonKhaimera/Characters/Heroes/Khaimera/Meshes/Khaimera_Skeleton.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Vidyudabhi/Private/VidyuAnimInstance.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Vidyudabhi/Private/VidyuAnimInstance.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Vidyudabhi/Public/VidyuAnimInstance.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Vidyudabhi/Public/VidyuAnimInstance.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +187,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725893197930</updated>
-      <workItem from="1725893199444" duration="5610000" />
+      <workItem from="1725893199444" duration="6860000" />
     </task>
     <servers />
   </component>

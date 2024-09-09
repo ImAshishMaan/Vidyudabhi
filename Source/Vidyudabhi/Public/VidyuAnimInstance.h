@@ -26,5 +26,8 @@ protected:
 	UPROPERTY( BlueprintReadWrite, VisibleAnywhere, Category = "Animations")
 	float Speed;
 
+	UPROPERTY(BlueprintReadWrite, VisibleAnywhere, Category = "Animations")
+	bool bIsInAir;
+
 	
 };
